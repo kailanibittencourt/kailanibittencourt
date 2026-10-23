@@ -1,31 +1,72 @@
 
-### 👩🏻‍💻 Sobre mim
+<div align="center">
 
-Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e criação de experiências digitais.
+# 🖤 Olá, eu sou a Kailani! 🩷
 
-- 💻 Desenvolvimento Front-end com HTML, CSS e JavaScript
-- 🎨 UX Design, prototipação e Figma
-- 📋 Conhecimento em metodologias ágeis
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-end;UX+Design+%26+Tecnologia;Metodologias+Ageis;Transformando+ideias+em+codigo" alt="Apresentação animada" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Front--end-FF69B4?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/UX%20Design-111111?style=for-the-badge&logo=figma&logoColor=FF69B4" />
+
+</div>
+
+---
+
+### 🩷 Sobre mim
+
+Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e experiências digitais.
+
+- 💻 Desenvolvimento com HTML, CSS e JavaScript
+- 🎨 UX Design, Figma e prototipação
+- 📋 Conhecimentos em metodologias ágeis
 - 🔄 Scrum e Kanban
-- 🚀 Organização, colaboração e melhoria contínua
-- 🌸 Sempre buscando aprender e desenvolver novos projetos
+- 🌸 Aprendendo e construindo novos projetos
 
+---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🖤 Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode&theme=dark" alt="Tecnologias" />
 
 </div>
 
-### 📋 Metodologias Ágeis
+---
+
+### 🩷 Metodologias Ágeis
 
 <div align="center">
 
-![Scrum](https://img.shields.io/badge/Scrum-F472B6?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-EC4899?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-DB2777?style=for-the-badge)
+<img src="https://img.shields.io/badge/Scrum-FF69B4?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Kanban-DB2777?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-111111?style=for-the-badge&logoColor=FF69B4" />
+
+</div>
+
+---
+
+### 🖤 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kailanibittencourt&show_icons=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailanibittencourt&layout=compact&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&hide_border=true" alt="Linguagens mais utilizadas" />
+
+</div>
+
+---
+
+### 🩷 Minha companheira de código
+
+<div align="center">
+
+<img src="./kuromi.gif" width="180" alt="Kuromi animada" />
+
+<p><i>Code, coffee & a little bit of chaos 🖤</i></p>
 
 </div>
 
@@ -33,12 +74,18 @@ Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e 
 
 <div align="center">
 
-  <h3>🖤 Minha companheira de código 🩷</h3>
+### 🖤 Conecte-se comigo
 
-  <img src="./kuromi_caminhando.gif" width="180" alt="Kuromi caminhando" />
+<a href="https://www.linkedin.com/in/iskbittencourt/">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
 
-  <p>Code, coffee & a little bit of chaos 🌸</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kailanibittencourt&color=ff69b4&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
+
+<br><br>
+
+🩷 Obrigada pela visita! 🖤
 
 </div>
-
----
