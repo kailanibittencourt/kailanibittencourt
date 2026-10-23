@@ -45,19 +45,6 @@ Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e 
 <img src="https://img.shields.io/badge/Agile-111111?style=for-the-badge&logoColor=FF69B4" />
 
 </div>
-
----
-
-### 🖤 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kailanibittencourt&show_icons=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailanibittencourt&layout=compact&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&hide_border=true" alt="Linguagens mais utilizadas" />
-
-</div>
-
 ---
 
 ### 🩷 Minha companheira de código
