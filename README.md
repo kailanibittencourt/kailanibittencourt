@@ -51,7 +51,7 @@ Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e 
 
 <div align="center">
 
-<img src="./kuromi.gif.gif" width="280" alt="Kuromi animada" />
+<img src="./kuromi.gif.gif" width="990" alt="Kuromi animada" />
 
 <p><i>Code, coffee & a little bit of chaos 🖤</i></p>
 
