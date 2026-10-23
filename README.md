@@ -69,10 +69,6 @@ Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e 
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kailanibittencourt&color=ff69b4&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
-
-<br><br>
-
 🩷 Obrigada pela visita! 🖤
 
 </div>
