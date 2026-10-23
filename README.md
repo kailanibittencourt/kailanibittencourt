@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🖤 Olá, eu sou a Kailani! 🩷
+#  Olá, eu sou a Kailani! 🖤
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-end;UX+Design+%26+Tecnologia;Metodologias+Ageis;Transformando+ideias+em+codigo" alt="Apresentação animada" />
 
@@ -26,8 +26,8 @@ Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e 
 
 ---
 
-### 🖤 Tecnologias e Ferramentas
-
+###  Tecnologias e Ferramentas 🖤
+ 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode&theme=dark" alt="Tecnologias" />
@@ -47,7 +47,7 @@ Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e 
 </div>
 ---
 
-### 🩷 Minha companheira de código
+###  Minha companheira de código 🩷
 
 <div align="center">
 
