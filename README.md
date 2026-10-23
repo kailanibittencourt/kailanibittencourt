@@ -28,3 +28,17 @@ Sou estudante de Desenvolvimento Front-end, apaixonada por tecnologia, design e 
 ![Agile](https://img.shields.io/badge/Agile-DB2777?style=for-the-badge)
 
 </div>
+
+---
+
+<div align="center">
+
+  <h3>🖤 Minha companheira de código 🩷</h3>
+
+  <img src="./kuromi_caminhando.gif" width="180" alt="Kuromi caminhando" />
+
+  <p>Code, coffee & a little bit of chaos 🌸</p>
+
+</div>
+
+---
